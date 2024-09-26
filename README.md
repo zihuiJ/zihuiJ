@@ -52,7 +52,42 @@ exposed to
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jess-jiang-7b373a215/)
 
 
+## 🛠️ 𝚙𝚊𝚜𝚝 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜
+<section align="center">
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>chatbot</h3>
 
+![demo gif 2](https://media.giphy.com/media/JVOOBgnPtFcnHgH0M7/giphy.gif)
+
+  <p>
+  <a href="https://github.com/zihuiJ/chatbot-demo/tree/main" target="_blank">
+    <img src="https://img.shields.io/badge/demo-blue">
+  </a>  
+      </p>
+        <p><strong>TypeScript, Nextjs, TailwindCSS, Postgres</strong> – An AI chatbot inspired by ChatGPT with bonus features.
+</p>
+    </td>
+    <td width="50%" valign="top">
+<!--       <h3>EzScheduler</h3>
+
+![](https://github.com/chok-di/EzScheduler/blob/main/screenshots/5.PNG)
+
+  <p>
+  <a href="https://github.com/chok-di/EzScheduler" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+    
+  </a>  
+      </p>
+        <p><strong> React, Node, Express, CodePipeline, S3, ElasticBeanStalk, RDS Postgres</strong> – A fun scheduler to invite and share good memories with your friends :D</p>
+    </td> -->
+  </tr>
+  
+</table>
+</section>
+
+<section align="center">
 
 
 
