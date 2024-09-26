@@ -21,35 +21,37 @@ I'm Jess, welcome to my profile!
 - If I'm not in front of my laptop, I'm most likely gaming👾 or spending time in nature🪴!
 
 ## ⬇️ 𝚖𝚢 𝚝𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔
-core skills
-
+languages
 [<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="25" height="25"/>](https://www.python.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25" height="25"/>](https://wikipedia.org/wiki/JavaScript)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="25" height="25"/>](https://en.wikipedia.org/wiki/TypeScript)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="25" height="25"/>](https://en.wikipedia.org/wiki/R_(programming_language))
 [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="25" height="25"/>](https://wikipedia.org/wiki/HTML)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="25" height="25"/>](https://wikipedia.org/wiki/CSS)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="25" height="25"/>](https://go.dev/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="25" height="25"/>](https://dart.dev/)
+
+frameworks
 [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="25" height="25"/>](https://reactjs.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="25" height="25"/>](https://nextjs.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="25" height="25"/>](https://flutter.dev/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="25" height="25"/>](https://tailwindcss.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="25" height="25"/>](https://getbootstrap.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="25" height="25"/>](https://mui.com/material-ui/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="25" height="25"/>](https://www.postgresql.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="25" height="25"/>](https://expressjs.com/)
+
+database and technologies
+[<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="25" height="25"/>](https://aws.amazon.com/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="25" height="25"/>](https://www.postgresql.org/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="25" height="25"/>](https://www.mongodb.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="25" height="25"/>](https://git-scm.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="25" height="25"/>](https://code.visualstudio.com/)
-
-exposed to
-
-[<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="25" height="25"/>](https://go.dev/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="25" height="25"/>](https://dart.dev/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="25" height="25"/>](https://aws.amazon.com/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="25" height="25"/>](https://www.mongodb.com/)
 
 ## 📫 𝚑𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jess-jiang-7b373a215/)
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=microsoftexchange)](mailto:z253jian@uwaterloo.ca)
+[![Calendly](https://img.shields.io/badge/Calendly-006BFF?logo=calendly&logoColor=fff&style=for-the-badge)](https://calendly.com/z253jian-uwaterloo/30min)
 
 
 ## 🛠️ 𝚙𝚊𝚜𝚝 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜
