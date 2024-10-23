@@ -79,10 +79,10 @@ database and technologies
     <td width="50%" valign="top">
     <h3>Human Physical Activities Recognition</h3>
 
-<img src="https://github.com/zihuiJ/Human-Physical-Activities-Recognition/blob/main/plot.png" height=270></img>
+<img src="https://github.com/zihuiJ/human-activities-recognition/blob/main/plot.png" height=270></img>
 
   <p>
-  <a href="https://github.com/zihuiJ/Human-Physical-Activities-Recognition" target="_blank">
+  <a href="https://github.com/zihuiJ/human-activities-recognition/tree/main" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
     
   </a>  
