@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 I'm Jess, welcome to my profile!
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+<img src="https://github.com/zihuiJ/zihuiJ/blob/main/IMG_2226.jpg" height=300></img>
+<img src="https://github.com/zihuiJ/zihuiJ/blob/main/IMG_1606.jpg" height=300></img>
 - 🖥 Full-stack software developer with a creative and collaborative mindset
 - 🎓 Recently graduated from the University of Waterloo Honours Math Statistics program
 - If I'm not in front of my laptop, I'm most likely gaming👾 or spending time in nature🪴!
@@ -65,25 +67,28 @@ database and technologies
 
   <p>
   <a href="https://github.com/zihuiJ/chatbot-demo/tree/main" target="_blank">
-    <img src="https://img.shields.io/badge/demo-blue">
+    <img src="https://img.shields.io/badge/demo_repo-blue">
   </a>  
+  <a href="https://youtu.be/niRgL2sRpug" target="_blank">
+    <img src="https://img.shields.io/badge/youtube-red">
+  </a>
       </p>
         <p><strong>TypeScript, Nextjs, TailwindCSS, Postgres</strong> – An AI chatbot inspired by ChatGPT with bonus features.
 </p>
     </td>
     <td width="50%" valign="top">
-<!--       <h3>EzScheduler</h3>
+    <h3>Human Physical Activities Recognition</h3>
 
-![](https://github.com/chok-di/EzScheduler/blob/main/screenshots/5.PNG)
+<img src="https://github.com/zihuiJ/Human-Physical-Activities-Recognition/blob/main/plot.png" height=270></img>
 
   <p>
-  <a href="https://github.com/chok-di/EzScheduler" target="_blank">
+  <a href="https://github.com/zihuiJ/Human-Physical-Activities-Recognition" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
     
   </a>  
       </p>
-        <p><strong> React, Node, Express, CodePipeline, S3, ElasticBeanStalk, RDS Postgres</strong> – A fun scheduler to invite and share good memories with your friends :D</p>
-    </td> -->
+        <p><strong>Python, R</strong>  - A machine learning classification project with Random Forest, Stacked Classifier, and Neural Network models.</p>
+    </td>
   </tr>
   
 </table>
